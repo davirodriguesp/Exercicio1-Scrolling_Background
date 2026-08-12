@@ -5,7 +5,7 @@ Um script simples e otimizado para criar o efeito de rolagem de cenário (scroll
 ## 🎮 Demonstração Visual
 
 <!-- Substitua o link abaixo pelo link do seu GIF após fazer o upload -->
-![Demonstração do Jogo](https://github.com/user-attachments/assets/70c3b14d-7605-4cf5-9f92-30cc18d86d90)
+[(https://github.com/user-attachments/assets/70c3b14d-7605-4cf5-9f92-30cc18d86d90)]
 
 ## 🛠️ Tecnologias Utilizadas
 * **Engine:** Unity 2D
